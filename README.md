@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **IBM DevOps projects**
 
-- 🌱 I’m currently learning **ALX Cloud Computing**
+- 🌱 I’m currently learning **ALX AWS Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Documentation, Cloud and Python projects**
+- 👯 I’m looking to collaborate on **Documentation, Cloud, DevOPs, and Python projects**
 
-- 🤝 I’m looking for help with **Landing an internship**
+- 🤝 I’m looking for help with **Landing an internship and a tech job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
