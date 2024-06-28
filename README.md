@@ -17,11 +17,11 @@
 
 - 📝 I regularly write articles on [https://techwithekon.hashnode.dev/](https://techwithekon.hashnode.dev/)
 
-- 💬 Ask me about **Python, Technical writing tools, AWS**
+- 💬 Ask me about **Python, Technical writing, AWS**
 
-- 📫 How to reach me **choiceekon@gmail.com**
+- 📫 How to reach me: **choiceekon@gmail.com**
 
-- ⚡ Fun fact **I love drawing**
+- ⚡ Fun fact: **I love drawing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
