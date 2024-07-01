@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **ALX AWS Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Documentation, Cloud, DevOPs, and Python projects**
+- 👯 I’m looking to collaborate on **Documentation, Technical/web writing, Cloud, DevOPs, and Python projects**
 
-- 🤝 I’m looking for help with **Landing an internship and a tech job**
+- 🤝 I’m looking for help with **Landing an internship in DevOps and a technical writing job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
