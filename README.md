@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://techwithekon.hashnode.dev/](https://techwithekon.hashnode.dev/)
 
-- 💬 Ask me about **Python, AWS, Technical Writing **
+- 💬 Ask me about **Python, AWS, Technical Writing**
 
 - 📫 How to reach me: **choiceekon@gmail.com**
 
