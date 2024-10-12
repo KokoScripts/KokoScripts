@@ -1,23 +1,23 @@
 <h1 align="center">Hi there, I'm Mmek Ekon</h1>
-<h3 align="center">A technical writer and aspiring Cloud Architect</h3>
+<h3 align="center">AWS Certified Cloud Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokoscripts&label=Profile%20views&color=0e75b6&style=flat" alt="kokoscripts" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kokoscripts" target="blank"><img src="https://img.shields.io/twitter/follow/kokoscripts?logo=twitter&style=for-the-badge" alt="kokoscripts" /></a> </p>
 
-- 🔭 I’m currently working on **IBM DevOps projects**
+- 🔭 I’m currently working on **AWS Cloud Architecture Projects**
 
-- 🌱 I’m currently learning **ALX AWS Cloud Computing**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Documentation, Technical/web writing, Cloud, DevOPs, and Python projects**
+- 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation, Technical Writing projects**
 
-- 🤝 I’m looking for help with **Landing an internship in DevOps and a technical writing job**
+- 🤝 I’m looking for help with **Landing an internship in AWS Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
 - 📝 I regularly write articles on [https://techwithekon.hashnode.dev/](https://techwithekon.hashnode.dev/)
 
-- 💬 Ask me about **Python, Technical writing, AWS**
+- 💬 Ask me about **Python, AWS, Technical Writing **
 
 - 📫 How to reach me: **choiceekon@gmail.com**
 
