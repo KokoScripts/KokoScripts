@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mmek Ekon</h1>
-<h3 align="center">Cloud Support Associate | Junior DevOps Engineer</h3>
+<h3 align="center">Cloud Support Associate | Junior DevOps Engineer | Technical Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokoscripts&label=Profile%20views&color=0e75b6&style=flat" alt="kokoscripts" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS Cloud Architecture Projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and everything technical writing**
 
 - 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation and Technical Writing**
 
