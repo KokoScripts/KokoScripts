@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/techwithekon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="techwithekon" height="30" width="40" /></a>
-<a href="https://twitter.com/kokoscripts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kokoscripts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mmek ekon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmek ekon" height="30" width="40" /></a>
-<a href="https://fb.com/mmek ekon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmek ekon" height="30" width="40" /></a>
-<a href="https://techwithekon.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@techwithekon" height="30" width="40" /></a>
+<a href="https://dev.to/techwithekon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="techwithekon" height="30" width="40" /></a>
+<a href="https://twitter.com/kokoscripts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kokoscripts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mmek ekon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmek ekon" height="30" width="40" /></a>
+<a href="https://fb.com/mmek ekon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmek ekon" height="30" width="40" /></a>
+<a href="https://techwithekon.hashnode.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@techwithekon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
