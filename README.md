@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mmek Ekon</h1>
-<h3 align="center">AWS Certified Cloud Practitioner</h3>
+<h3 align="center">Cloud Support Associate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokoscripts&label=Profile%20views&color=0e75b6&style=flat" alt="kokoscripts" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation and Technical Writing**
 
-- 🤝 I’m looking for help with **Landing an role as an AWS Cloud Support ARchitect**
+- 🤝 I’m looking for help with **Landing an role as an AWS Cloud Support Architect**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
