@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation, Technical Writing projects**
+- 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation and Technical Writing**
 
-- 🤝 I’m looking for help with **Landing an internship in AWS Cloud Computing**
+- 🤝 I’m looking for help with **Landing an role as an AWS Cloud Support ARchitect**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
@@ -19,9 +19,10 @@
 
 - 💬 Ask me about **Python, Amazon Cloud and web services, Technical Writing**
 
-- 📫 How to reach me: **choiceekon@gmail.com**
+- 📫 How to reach me: **mmekekon@gmail.com**
 
-- ⚡ Fun fact: **I love drawing**
+- ⚡ Fun fact: **I love food so much. I want to try different cuisines round the world.**
+- 🏓 Hobbies: **Crocheting, watching movies and animation, reading, and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
