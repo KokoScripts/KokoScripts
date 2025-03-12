@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mmek Ekon</h1>
-<h3 align="center"> DevOps Cloud Engineer | Technical Writer </h3>
+<h3 align="center"> Cloud DevOps Engineer | Technical Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokoscripts&label=Profile%20views&color=0e75b6&style=flat" alt="kokoscripts" /> </p>
 
