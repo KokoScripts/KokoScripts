@@ -1,23 +1,23 @@
 <h1 align="center">Hi there, I'm Mmek Ekon</h1>
-<h3 align="center"> Cloud DevOps Engineer | Technical Writer </h3>
+<h3 align="center"> Cloud DevOps Engineer | Pro-Backend Engineer | Technical Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokoscripts&label=Profile%20views&color=0e75b6&style=flat" alt="kokoscripts" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kokoscripts" target="blank"><img src="https://img.shields.io/twitter/follow/kokoscripts?logo=twitter&style=for-the-badge" alt="kokoscripts" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud Projects**
+- 🔭 I’m currently working on different **AWS Cloud Projects** and also **building the Backend side of an AirBnB Clone**
 
-- 🌱 I’m currently learning **Python and everything technical writing**
+- 🌱 I’m consistently learning and growing in **Python, Go, Cloud infrastructure, DevOps processes and advanced technical writing**
 
 - 👯 I’m looking to collaborate on **Cloud, DevOPs, and Python projects. Also on Documentation and Technical Writing**
 
-- 🤝 I’m looking for help with **Landing an AWS Cloud Support Architect or technical writing role**
+- 🤝 I’m looking for help with **Landing an AWS Cloud DevOps/Engineer, Backend Engineer or technical writing role**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KokoScripts](https://github.com/KokoScripts)
 
 - 📝 I regularly write articles on [https://techwithekon.hashnode.dev/](https://techwithekon.hashnode.dev/)
 
-- 💬 Ask me about **Python, Amazon Cloud and web services, Technical Writing**
+- 💬 Ask me about **Python, Go, Amazon Cloud and web services, DevOps, Backend Engineering, Technical Writing**
 
 - 📫 How to reach me: **mmekekon@gmail.com**
 
